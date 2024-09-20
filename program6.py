@@ -1,3 +1,5 @@
 string ="this is my book"
-s=string.replace(' ',"0")
+s=string.split()[::-1]
 print(s)
+
+
